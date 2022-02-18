@@ -1,1 +1,5 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/839564888375427122/944033993349795940/1fe50b7912137d68576522c6de085838.jpg)](github.com/Gzuz808)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/918985927039275128)](https://discord.com/users/918985927039275128)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
+[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
