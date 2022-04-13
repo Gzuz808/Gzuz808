@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/918985927039275128)](https://discord.com/users/918985927039275128)  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/947563087991546009)](https://discord.com/users/947563087991546009)  
 
 </div>
 
